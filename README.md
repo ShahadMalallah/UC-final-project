@@ -3,11 +3,11 @@
 <div dir="rtl">
 
 ### اسم الطالب
-
+ شهد يوسف مال الله
 
 ### اسم المشروع
 
-
+ 23_inches
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
 
@@ -16,18 +16,6 @@
 
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
 
