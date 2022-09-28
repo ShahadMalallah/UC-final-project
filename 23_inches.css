@@ -1,0 +1,116 @@
+/* just import the fount thout use it  */
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Telugu&display=swap');
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: column; 
+    
+    justify-content:space-around;
+    /* background-color:#f9dcc4; */
+    /* align-items: center; */
+    /* justify-content: left; */
+}
+ img {
+    border-radius: 60%;
+  }   
+#DLogo{
+    display:flex;
+    border-radius:0%;
+    
+}
+.headd{
+    color:rgb(141, 129, 135);
+    background-color:rgb(213, 199, 206);
+    flex-direction: row;
+     font-family: 'Tiro Telugu', serif;
+     font-size: larger;
+     font-display: left;
+
+}
+.form-select{
+    display:flex;
+    float:right;
+}
+
+
+.Logo{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-around;
+
+    border-image: round;
+    image-rendering:crisp-edges;
+    text-align: center;
+    box-sizing: border-box;
+    /* border-radius: 10%;  */
+    background-color:rgb(250, 248, 249);
+    /* background-color: rgba(160, 110, 150, 0.259); */
+
+    /* display: flex;
+    justify-content: first baseline;
+    align-items: center;  */
+}
+
+
+    /* justify-content: first baseline; */
+    /* margin: 1px; */
+    /* padding: 16px; */
+
+    /* height: 200px;
+    width: 200px;
+
+/* 
+.carouselExampleIndicators{
+    padding: 16px;
+    background-color: bisque;
+    
+} */
+
+.container{
+    display: flex;
+    /* flex-wrap:nowrap; */
+    flex-direction:unset;
+    justify-content:space-around;
+    align-items: stretch;
+    background-color:rgb(250, 248, 249);
+} 
+ .card{
+    /* display: flex; 
+    
+    align-items: flex-end;
+    
+    height: 150px;
+    width: 150px; */
+    margin: 20px;
+    padding: 20px; 
+    background-color:#c8b8ba;
+    /* border: radius 10px; */
+    transition:0.5s
+     
+}
+.card-body{ 
+    /* margin: 1px;  */
+
+    padding: 10px; 
+
+}
+.SubLogo{
+    height: 150px;
+    width: 60px; 
+    display: flex;
+
+}
+
+h5{
+    font-size:larger;
+}
+/* .card:hover{
+    background-color: aquamarine;
+}  */
+.column {
+    float:left; 
+    width: 50%;
+    
+  }
